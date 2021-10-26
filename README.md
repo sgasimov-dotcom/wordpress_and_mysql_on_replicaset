@@ -1,12 +1,12 @@
 # wordpress_and_mysql_on_replicaset
 Deploying WordPress and MySQL with Persistent Volumes and LB on Kubernetes ReplicaSet
 
-  * wordpress-deployment.yaml 
+  * wordpress-replicaset.yaml 
 1. Service
 2. PersistentVolumeClaim
 3. Replicaset
 
-  * mysql-deployment.yaml
+  * mysql-replicaset.yaml
 1. Service
 2. PersistentVolumeClaim
 3. Replicaset
