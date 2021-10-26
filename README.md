@@ -14,7 +14,7 @@ Deploying WordPress and MySQL with Persistent Volumes and LB on Kubernetes Repli
  * kustomization.yaml
  1. secretGenerator
  2. mysql-password
- 3. wordpres and mysql resources
+ 3. wordpress and mysql resources
 
 # To run both applications simply do:
 * kubectl apply -k ./
